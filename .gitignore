@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+*.pyc
+
+# Streamlit secrets
+.streamlit/
+
+# Temporary files created by the app
+temp/
+*.tmp
